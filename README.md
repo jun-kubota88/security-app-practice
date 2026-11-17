@@ -15,3 +15,7 @@ COACHTECH 教材 Tutorial 10-6「Webセキュリティ ハンズオン」で作�
 - フォーム表示、送信、送信完了画面の表示を確認
 - CSRFトークン削除時に `419 Page Expired` が表示されることを確認
 - `<script>alert('XSS')</script>` が実行されず、エスケープされて表示されることを確認
+<img width="3000" height="1762" alt="image" src="https://github.com/user-attachments/assets/b8afc8d9-aef2-4d7a-b908-b7dcafb13bc6" />
+<img width="3000" height="1762" alt="image" src="https://github.com/user-attachments/assets/96e475e4-82ed-4a4e-b57f-ce2f857bb66b" />
+<img width="1425" height="963" alt="image" src="https://github.com/user-attachments/assets/f4a4b473-a513-4061-9094-72786e08fb21" />
+<img width="1447" height="833" alt="image" src="https://github.com/user-attachments/assets/c92fe94b-420b-4cc0-95ee-1e5cb2ddab19" />
